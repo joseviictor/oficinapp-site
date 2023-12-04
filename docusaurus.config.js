@@ -78,12 +78,12 @@ const config = {
             label: 'Features',
           },
           {
-            to: 'pricing.md', 
+            to: 'pricing', 
             label: 'Pricing', 
             position: 'left'
           },
           {
-            to: 'about.md', 
+            to: 'about', 
             label: 'About Us', 
             position: 'left'
           },
