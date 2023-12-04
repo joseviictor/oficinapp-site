@@ -27,6 +27,6 @@ Seja bem-vindo à OficinApp, a solução definitiva para gestão e emissão de f
 Não perca tempo, simplifique a gestão da sua oficina e melhore a eficiência com a OficinApp! [Clique aqui para saber mais](https://github.com/joseviictor/oficinapp-site).
 
 Siga-nos nas redes sociais para ficar por dentro das últimas atualizações e dicas para sua oficina:
-- [Facebook](facebook.com)
-- [Instagram](instagram.com)
-- [Twitter](x.com)
+- [Facebook](https://www.facebook.com)
+- [Instagram](https://www.instagram.com)
+- [Twitter](https://www.x.com)
