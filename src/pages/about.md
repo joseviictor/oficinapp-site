@@ -25,17 +25,17 @@ Conheça as mentes por trás da OficinApp:
 ### José Victor Santos
 *Cofundador e Desenvolvedor Chefe*
 
-![José Victor Santos](../../static/img/joseSantos.jpg)
+![José Victor Santos](../../static/img/joseSantos.png)
 
 ### Marco Figueira
 *Cofundador e Especialista em Gestão*
 
-![Marco Figueira](../../static/img/marcoFigueira.jpg)
+![Marco Figueira](../../static/img/marcoFigueira.png)
 
 ### Rodrigo Pimenta
 *Cofundador e Consultor de Negócios*
 
-![Rodrigo Pimenta](../../static/img/rodrigoPimenta.jpg.jpg)
+![Rodrigo Pimenta](../../static/img/rodrigoPimenta.png)
 
 ## Próximos Passos
 
