@@ -1,6 +1,6 @@
 # Bem-vindo à OficinApp!
 
-![OficinApp Logo](static/img/OficinAppLogo1.png)
+![OficinApp Logo](../static/img/OficinAppLogo1.png)
 
 ## Potência na gestão, eficiência na fatura: sua oficina em alta velocidade!
 
