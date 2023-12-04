@@ -1,6 +1,6 @@
 # Bem-vindo à OficinApp!
 
-![OficinApp Logo](link_para_sua_imagem_logo.png)
+![OficinApp Logo](/static/img/OficinAppLogo1.png)
 
 ## Potência na gestão, eficiência na fatura: sua oficina em alta velocidade!
 
@@ -24,9 +24,9 @@ Seja bem-vindo à OficinApp, a solução definitiva para gestão e emissão de f
 
 ### Experimente Agora!
 
-Não perca tempo, simplifique a gestão da sua oficina e melhore a eficiência com a OficinApp! [Clique aqui para saber mais](link_para_pagina_de_download).
+Não perca tempo, simplifique a gestão da sua oficina e melhore a eficiência com a OficinApp! [Clique aqui para saber mais](https://github.com/joseviictor/oficinapp-site).
 
 Siga-nos nas redes sociais para ficar por dentro das últimas atualizações e dicas para sua oficina:
-- [Facebook](link_para_facebook)
-- [Instagram](link_para_instagram)
-- [Twitter](link_para_twitter)
+- [Facebook](facebook.com)
+- [Instagram](instagram.com)
+- [Twitter](x.com)
