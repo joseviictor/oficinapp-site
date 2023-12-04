@@ -20,26 +20,23 @@ Operamos com um modelo centrado no cliente, buscando constantemente melhorias e 
 
 ## Conheça Nossa Equipe
 
-Conheça as mentes por trás da OficinApp:
-
+![José Victor Santos](../../static/img/joseSantos.png)
 ### José Victor Santos
 *Cofundador e Desenvolvedor Chefe*
 
-![José Victor Santos](../../static/img/joseSantos.png)
+---
 
+![Marco Figueira](../../static/img/marcoFigueira.png)
 ### Marco Figueira
 *Cofundador e Especialista em Gestão*
 
-![Marco Figueira](../../static/img/marcoFigueira.png)
+---
 
+![Rodrigo Pimenta](../../static/img/rodrigoPimenta.png)
 ### Rodrigo Pimenta
 *Cofundador e Consultor de Negócios*
 
-![Rodrigo Pimenta](../../static/img/rodrigoPimenta.png)
-
-## Próximos Passos
-
-Queremos simplificar ainda mais a gestão de oficinas, oferecendo soluções personalizadas e integradas. Estamos comprometidos em proporcionar uma experiência excepcional aos nossos clientes.
+---
 
 **Entre em contato conosco para saber mais sobre como a OficinApp pode ajudar a impulsionar o seu negócio.**
 
