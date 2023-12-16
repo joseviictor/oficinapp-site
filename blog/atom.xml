@@ -8,9 +8,9 @@
     <subtitle>OficinApp Blog</subtitle>
     <icon>https://github.com/oficinapp-site/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://github.com/oficinapp-site/blog/first-blog-post</id>
-        <link href="https://github.com/oficinapp-site/blog/first-blog-post"/>
+        <title type="html"><![CDATA[release 1]]></title>
+        <id>https://github.com/oficinapp-site/blog/release-1</id>
+        <link href="https://github.com/oficinapp-site/blog/release-1"/>
         <updated>2023-11-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[texto aqui]]></summary>
         <content type="html"><![CDATA[<p>texto aqui</p>]]></content>
@@ -29,7 +29,7 @@
         <link href="https://github.com/oficinapp-site/blog/first-blog-post"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <content type="html"><![CDATA[<p>texto aqui</p>]]></content>
+        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
         <author>
             <name>Gao Wei</name>
             <uri>https://github.com/wgao19</uri>
