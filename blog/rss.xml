@@ -13,10 +13,12 @@
             <link>https://github.com/oficinapp-site/blog/first-blog-post</link>
             <guid>https://github.com/oficinapp-site/blog/first-blog-post</guid>
             <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>hola</category>
-            <category>docusaurus</category>
+            <description><![CDATA[texto aqui]]></description>
+            <content:encoded><![CDATA[<p>texto aqui</p>]]></content:encoded>
+            <category>Faturas</category>
+            <category>Criar</category>
+            <category>Imprimir</category>
+            <category>Faturas.py</category>
         </item>
         <item>
             <title><![CDATA[First Blog Post]]></title>
@@ -24,7 +26,7 @@
             <guid>https://github.com/oficinapp-site/blog/first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>texto aqui</p>]]></content:encoded>
             <category>hola</category>
             <category>docusaurus</category>
         </item>
