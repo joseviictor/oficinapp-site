@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[8693],{5758:s=>{s.exports=JSON.parse('{"label":"servi\xe7os.py","permalink":"/oficinapp-site/blog/tags/servicos-py","allTagsPath":"/oficinapp-site/blog/tags","count":1}')}}]);

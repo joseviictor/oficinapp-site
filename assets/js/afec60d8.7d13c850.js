@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[4e3],{7876:a=>{a.exports=JSON.parse('{"label":"materiais.py","permalink":"/oficinapp-site/blog/tags/materiais-py","allTagsPath":"/oficinapp-site/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[7248],{6028:s=>{s.exports=JSON.parse('{"label":"clientes.py","permalink":"/oficinapp-site/blog/tags/clientes-py","allTagsPath":"/oficinapp-site/blog/tags","count":1}')}}]);
