@@ -2,18 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/oficinapp-site/blog</id>
     <title>OficinApp Blog</title>
-    <updated>2023-11-02T00:00:00.000Z</updated>
+    <updated>2023-11-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/oficinapp-site/blog"/>
     <subtitle>OficinApp Blog</subtitle>
     <icon>https://github.com/oficinapp-site/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Funções basicas do sistema, serviços e materiais [release v0.0.1]]]></title>
+        <id>https://github.com/oficinapp-site/blog/release-2</id>
+        <link href="https://github.com/oficinapp-site/blog/release-2"/>
+        <updated>2023-11-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[obtimizamos bastante o sistema, adicionamos novas funções e acrescenta.]]></summary>
+        <content type="html"><![CDATA[<p>obtimizamos bastante o sistema, adicionamos novas funções e acrescenta.</p><p>Features adicionadas:</p><ul><li>Criar serviços novos.</li><li>Imprimir todos os serviços disponiveis.</li><li>Criar Materiais novas.</li><li>Imprimir todas as Materiais.</li><li>Atualização do menu principal.</li><li>Adição de sub-menus.</li><li>Salvar as informações em ficheiros.</li><li>optimização completo do sistema.</li></ul>]]></content>
+        <author>
+            <name>Jose Santos</name>
+            <uri>https://github.com/joseviictor</uri>
+        </author>
+        <category label="Materiais" term="Materiais"/>
+        <category label="Servicos" term="Servicos"/>
+        <category label="basicas" term="basicas"/>
+        <category label="Criar" term="Criar"/>
+        <category label="Imprimir" term="Imprimir"/>
+        <category label="Faturas.py" term="Faturas.py"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Funções basicas do sistema [release v0.0.1]]]></title>
         <id>https://github.com/oficinapp-site/blog/release-1</id>
         <link href="https://github.com/oficinapp-site/blog/release-1"/>
         <updated>2023-11-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A primeira versão da aplicação ja se encontra disponivel.]]></summary>
-        <content type="html"><![CDATA[<p>A primeira versão da aplicação ja se encontra disponivel.</p><p>Features adicionadas:</p><ul><li>Criar clientes novos.</li><li>Imprimir todos os clientes.</li><li>criar faturas novas.</li><li>imprimir todas as faturas.</li><li>optimização completo do sistema.</li></ul>]]></content>
+        <content type="html"><![CDATA[<p>A primeira versão da aplicação ja se encontra disponivel.</p><p>Features adicionadas:</p><ul><li>Criar clientes novos.</li><li>Imprimir todos os clientes.</li><li>Criar faturas novas.</li><li>Imprimir todas as faturas.</li><li>Optimização completo do sistema.</li></ul>]]></content>
         <author>
             <name>Jose Santos</name>
             <uri>https://github.com/joseviictor</uri>

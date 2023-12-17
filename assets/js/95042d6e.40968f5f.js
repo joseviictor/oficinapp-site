@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[9734],{4738:a=>{a.exports=JSON.parse('{"label":"Faturas.py","permalink":"/oficinapp-site/blog/tags/faturas-py","allTagsPath":"/oficinapp-site/blog/tags","count":2}')}}]);
