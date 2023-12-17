@@ -10,8 +10,8 @@
         <language>pt</language>
         <item>
             <title><![CDATA[Inclusão de funções gerais para apagar e editar. [release v0.1.2]]]></title>
-            <link>https://github.com/oficinapp-site/blog/release-5</link>
-            <guid>https://github.com/oficinapp-site/blog/release-5</guid>
+            <link>https://github.com/oficinapp-site/blog/release-6</link>
+            <guid>https://github.com/oficinapp-site/blog/release-6</guid>
             <pubDate>Mon, 27 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Foram adicionadas as funçoes de apagar e editar baseadas na base de dados de uma forma generica que permite a realizaçao com qualquer item ou objeto como um veiculo ou mesmo se for adicionado outras novas coisas.]]></description>
             <content:encoded><![CDATA[<p>Foram adicionadas as funçoes de apagar e editar baseadas na base de dados de uma forma generica que permite a realizaçao com qualquer item ou objeto como um veiculo ou mesmo se for adicionado outras novas coisas.</p><p><strong>Features adicionadas:</strong></p><ul><li>Capacidade de editar qualquer coisa a partir de uma unica função.</li><li>Capacidade de apagar qualquer coisa a partir de uma unica função.</li><li>limpeza de algum codigo desnecessario.</li></ul>]]></content:encoded>
@@ -31,7 +31,7 @@
             <guid>https://github.com/oficinapp-site/blog/release-5</guid>
             <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Foram adicionadas as funçoes de criar, apagar, editar e mostrar baseadas na base de dados.]]></description>
-            <content:encoded><![CDATA[<p>Foram adicionadas as funçoes de apagar e editar baseadas na base de dados de uma forma generica que permite a realizaçao com qualquer item ou objeto como um veiculo ou mesmo se for adicionado outras novas coisas.</p><p><strong>Features adicionadas:</strong></p><ul><li>Capacidade de editar qualquer coisa a partir de uma unica função.</li><li>Capacidade de apagar qualquer coisa a partir de uma unica função.</li><li>limpeza de algum codigo desnecessario.</li></ul>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Foram adicionadas as funçoes de criar, apagar, editar e mostrar baseadas na base de dados.</p><p><strong>Features adicionadas:</strong></p><ul><li>C.R.U.D para os clientes.</li><li>C.R.U.D para as faturas.</li><li>C.R.U.D para os materiais.</li><li>C.R.U.D para os serviços.</li><li>C.R.U.D para as ordens de reparação.</li><li>C.R.U.D para os veiculos.</li><li>Optimização de sistema e interatividade do meno.</li></ul>]]></content:encoded>
             <category>base de dados</category>
             <category>Basicas</category>
             <category>CRUD</category>
