@@ -9,8 +9,8 @@
     <icon>https://github.com/oficinapp-site/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Funções basicas do sistema, faturas e clientes[release v0.0.3]]]></title>
-        <id>https://github.com/oficinapp-site/blog/release-1</id>
-        <link href="https://github.com/oficinapp-site/blog/release-1"/>
+        <id>https://github.com/oficinapp-site/blog/release-3</id>
+        <link href="https://github.com/oficinapp-site/blog/release-3"/>
         <updated>2023-11-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Foram adicionadas algumas funçoes de excluir e corrigimos alguns erros do progrma para um melhor funcionamento.]]></summary>
         <content type="html"><![CDATA[<p>Foram adicionadas algumas funçoes de excluir e corrigimos alguns erros do progrma para um melhor funcionamento.</p><p>Features adicionadas:</p><ul><li>Eliminar clientes.</li><li>Eliminar faturas.</li></ul>]]></content>
@@ -50,7 +50,7 @@
         <link href="https://github.com/oficinapp-site/blog/release-1"/>
         <updated>2023-11-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A primeira versão da aplicação ja se encontra disponivel.]]></summary>
-        <content type="html"><![CDATA[<p>Foram adicionadas algumas funçoes de excluir e corrigimos alguns erros do progrma para um melhor funcionamento.</p><p>Features adicionadas:</p><ul><li>Eliminar clientes.</li><li>Eliminar faturas.</li></ul>]]></content>
+        <content type="html"><![CDATA[<p>A primeira versão da aplicação ja se encontra disponivel.</p><p>Features adicionadas:</p><ul><li>Criar clientes novos.</li><li>Imprimir todos os clientes.</li><li>Criar faturas novas.</li><li>Imprimir todas as faturas.</li><li>Optimização completo do sistema.</li></ul>]]></content>
         <author>
             <name>Jose Santos</name>
             <uri>https://github.com/joseviictor</uri>

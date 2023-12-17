@@ -10,8 +10,8 @@
         <language>pt</language>
         <item>
             <title><![CDATA[Funções basicas do sistema, faturas e clientes[release v0.0.3]]]></title>
-            <link>https://github.com/oficinapp-site/blog/release-1</link>
-            <guid>https://github.com/oficinapp-site/blog/release-1</guid>
+            <link>https://github.com/oficinapp-site/blog/release-3</link>
+            <guid>https://github.com/oficinapp-site/blog/release-3</guid>
             <pubDate>Sat, 04 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Foram adicionadas algumas funçoes de excluir e corrigimos alguns erros do progrma para um melhor funcionamento.]]></description>
             <content:encoded><![CDATA[<p>Foram adicionadas algumas funçoes de excluir e corrigimos alguns erros do progrma para um melhor funcionamento.</p><p>Features adicionadas:</p><ul><li>Eliminar clientes.</li><li>Eliminar faturas.</li></ul>]]></content:encoded>
@@ -43,7 +43,7 @@
             <guid>https://github.com/oficinapp-site/blog/release-1</guid>
             <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[A primeira versão da aplicação ja se encontra disponivel.]]></description>
-            <content:encoded><![CDATA[<p>Foram adicionadas algumas funçoes de excluir e corrigimos alguns erros do progrma para um melhor funcionamento.</p><p>Features adicionadas:</p><ul><li>Eliminar clientes.</li><li>Eliminar faturas.</li></ul>]]></content:encoded>
+            <content:encoded><![CDATA[<p>A primeira versão da aplicação ja se encontra disponivel.</p><p>Features adicionadas:</p><ul><li>Criar clientes novos.</li><li>Imprimir todos os clientes.</li><li>Criar faturas novas.</li><li>Imprimir todas as faturas.</li><li>Optimização completo do sistema.</li></ul>]]></content:encoded>
             <category>Faturas</category>
             <category>Clientes</category>
             <category>basicas</category>
