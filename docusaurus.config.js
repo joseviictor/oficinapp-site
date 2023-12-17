@@ -75,7 +75,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'features',
             position: 'left',
-            label: 'FFeatures',
+            label: 'Features',
           },
           {
             to: 'pricing', 
