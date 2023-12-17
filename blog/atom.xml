@@ -9,8 +9,8 @@
     <icon>https://github.com/oficinapp-site/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Optimização de todo o progrmação. [release v0.1.3]]]></title>
-        <id>https://github.com/oficinapp-site/blog/release-6</id>
-        <link href="https://github.com/oficinapp-site/blog/release-6"/>
+        <id>https://github.com/oficinapp-site/blog/release-7</id>
+        <link href="https://github.com/oficinapp-site/blog/release-7"/>
         <updated>2023-12-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Foram apagados ficheiros desnecessarios, adicionados documentaçao e algum material de suposte e foi feita algumas alterações de modo a resolver alguns problemas.]]></summary>
         <content type="html"><![CDATA[<p>Foram apagados ficheiros desnecessarios, adicionados documentaçao e algum material de suposte e foi feita algumas alterações de modo a resolver alguns problemas.</p>]]></content>
@@ -28,7 +28,7 @@
         <link href="https://github.com/oficinapp-site/blog/release-6"/>
         <updated>2023-11-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Foram adicionadas as funçoes de apagar e editar baseadas na base de dados de uma forma generica que permite a realizaçao com qualquer item ou objeto como um veiculo ou mesmo se for adicionado outras novas coisas.]]></summary>
-        <content type="html"><![CDATA[<p>Foram apagados ficheiros desnecessarios, adicionados documentaçao e algum material de suposte e foi feita algumas alterações de modo a resolver alguns problemas.</p>]]></content>
+        <content type="html"><![CDATA[<p>Foram adicionadas as funçoes de apagar e editar baseadas na base de dados de uma forma generica que permite a realizaçao com qualquer item ou objeto como um veiculo ou mesmo se for adicionado outras novas coisas.</p><p><strong>Features adicionadas:</strong></p><ul><li>Capacidade de editar qualquer coisa a partir de uma unica função.</li><li>Capacidade de apagar qualquer coisa a partir de uma unica função.</li><li>limpeza de algum codigo desnecessario.</li></ul>]]></content>
         <author>
             <name>Marco Valente</name>
             <uri>https://github.com/MarcoValenteF</uri>
