@@ -14,7 +14,7 @@
             <guid>https://github.com/oficinapp-site/blog/release-5</guid>
             <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Foram adicionadas as funçoes de criar, apagar, editar e mostrar baseadas na base de dados.]]></description>
-            <content:encoded><![CDATA[<p>Foram adicionadas as funçoes de criar, apagar, editar e mostrar baseadas na base de dados.</p><p>Features adicionadas:</p><ul><li>C.R.U.D para os clientes.</li><li>C.R.U.D para as faturas.</li><li>C.R.U.D para os materiasi.</li><li>C.R.U.D para os serviços.</li><li>C.R.U.D para as ordens de reparação.</li><li>C.R.U.D para os veiculos.</li><li>Optimização de sistema e interatividade do meno.</li></ul>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Foram adicionadas as funçoes de criar, apagar, editar e mostrar baseadas na base de dados.</p><p><strong>Features adicionadas:</strong></p><ul><li>C.R.U.D para os clientes.</li><li>C.R.U.D para as faturas.</li><li>C.R.U.D para os materiasi.</li><li>C.R.U.D para os serviços.</li><li>C.R.U.D para as ordens de reparação.</li><li>C.R.U.D para os veiculos.</li><li>Optimização de sistema e interatividade do meno.</li></ul>]]></content:encoded>
             <category>base de dados</category>
             <category>Basicas</category>
         </item>
@@ -23,8 +23,8 @@
             <link>https://github.com/oficinapp-site/blog/release-4</link>
             <guid>https://github.com/oficinapp-site/blog/release-4</guid>
             <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[incorpuramos uma base de dados no sistema.]]></description>
-            <content:encoded><![CDATA[<p>incorpuramos uma base de dados no sistema.</p><p>Features adicionadas:</p><ul><li>Adição da base de dados com o sistema</li><li>Criação de funcionalidades para inserir uma nova ordem de reparação.</li><li>Implementado um formulário para a inserção das informações necessárias para criar uma Ordem de Reparo.</li></ul>]]></content:encoded>
+            <description><![CDATA[Incorpuramos uma base de dados no sistema.]]></description>
+            <content:encoded><![CDATA[<p>Incorpuramos uma base de dados no sistema.</p><p><strong>Features adicionadas:</strong></p><ul><li>Adição da base de dados com o sistema</li><li>Criação de funcionalidades para inserir uma nova ordem de reparação.</li><li>Implementado um formulário para a inserção das informações necessárias para criar uma Ordem de Reparo.</li></ul>]]></content:encoded>
             <category>base de dados</category>
             <category>Basicas</category>
         </item>
@@ -34,7 +34,7 @@
             <guid>https://github.com/oficinapp-site/blog/release-3</guid>
             <pubDate>Sat, 04 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Foram adicionadas algumas funçoes de excluir e corrigimos alguns erros do progrma para um melhor funcionamento.]]></description>
-            <content:encoded><![CDATA[<p>Foram adicionadas algumas funçoes de excluir e corrigimos alguns erros do progrma para um melhor funcionamento.</p><p>Features adicionadas:</p><ul><li>Eliminar clientes.</li><li>Eliminar faturas.</li></ul>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Foram adicionadas algumas funçoes de excluir e corrigimos alguns erros do progrma para um melhor funcionamento.</p><p><strong>Features adicionadas:</strong></p><ul><li>Eliminar clientes.</li><li>Eliminar faturas.</li></ul>]]></content:encoded>
             <category>Faturas</category>
             <category>Clientes</category>
             <category>Basicas</category>
@@ -63,7 +63,7 @@
             <guid>https://github.com/oficinapp-site/blog/release-1</guid>
             <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[A primeira versão da aplicação ja se encontra disponivel.]]></description>
-            <content:encoded><![CDATA[<p>A primeira versão da aplicação ja se encontra disponivel.</p><p>Features adicionadas:</p><ul><li>Criar clientes novos.</li><li>Imprimir todos os clientes.</li><li>Criar faturas novas.</li><li>Imprimir todas as faturas.</li><li>Optimização completo do sistema.</li></ul>]]></content:encoded>
+            <content:encoded><![CDATA[<p>A primeira versão da aplicação ja se encontra disponivel.</p><p><strong>Features adicionadas:</strong></p><ul><li>Criar clientes novos.</li><li>Imprimir todos os clientes.</li><li>Criar faturas novas.</li><li>Imprimir todas as faturas.</li><li>Optimização completo do sistema.</li></ul>]]></content:encoded>
             <category>Faturas</category>
             <category>Clientes</category>
             <category>basicas</category>
