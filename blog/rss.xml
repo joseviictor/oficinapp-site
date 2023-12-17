@@ -4,17 +4,27 @@
         <title>OficinApp Blog</title>
         <link>https://github.com/oficinapp-site/blog</link>
         <description>OficinApp Blog</description>
-        <lastBuildDate>Mon, 20 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pt</language>
+        <item>
+            <title><![CDATA[Inclusão de todas as funcionalidades conectada com a base de dados [release v0.1.1]]]></title>
+            <link>https://github.com/oficinapp-site/blog/release-5</link>
+            <guid>https://github.com/oficinapp-site/blog/release-5</guid>
+            <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Foram adicionadas as funçoes de criar, apagar, editar e mostrar baseadas na base de dados.]]></description>
+            <content:encoded><![CDATA[<p>Foram adicionadas as funçoes de criar, apagar, editar e mostrar baseadas na base de dados.</p><p>Features adicionadas:</p><ul><li>C.R.U.D para os clientes.</li><li>C.R.U.D para as faturas.</li><li>C.R.U.D para os materiasi.</li><li>C.R.U.D para os serviços.</li><li>C.R.U.D para as ordens de reparação.</li><li>C.R.U.D para os veiculos.</li><li>Optimização de sistema e interatividade do meno.</li></ul>]]></content:encoded>
+            <category>base de dados</category>
+            <category>Basicas</category>
+        </item>
         <item>
             <title><![CDATA[Inclusão de uma base de dados no sistema[release v0.1.0]]]></title>
             <link>https://github.com/oficinapp-site/blog/release-4</link>
             <guid>https://github.com/oficinapp-site/blog/release-4</guid>
             <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Foram adicionadas algumas funçoes de excluir e corrigimos alguns erros do progrma para um melhor funcionamento.]]></description>
-            <content:encoded><![CDATA[<p>Foram adicionadas algumas funçoes de excluir e corrigimos alguns erros do progrma para um melhor funcionamento.</p><p>Features adicionadas:</p><ul><li>Adição da base de dados com o sistema</li><li>Criação de funcionalidades para inserir uma nova ordem de reparação.</li><li>Implementado um formulário para a inserção das informações necessárias para criar uma Ordem de Reparo.</li></ul>]]></content:encoded>
+            <description><![CDATA[incorpuramos uma base de dados no sistema.]]></description>
+            <content:encoded><![CDATA[<p>incorpuramos uma base de dados no sistema.</p><p>Features adicionadas:</p><ul><li>Adição da base de dados com o sistema</li><li>Criação de funcionalidades para inserir uma nova ordem de reparação.</li><li>Implementado um formulário para a inserção das informações necessárias para criar uma Ordem de Reparo.</li></ul>]]></content:encoded>
             <category>base de dados</category>
             <category>Basicas</category>
         </item>

@@ -2,18 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/oficinapp-site/blog</id>
     <title>OficinApp Blog</title>
-    <updated>2023-11-20T00:00:00.000Z</updated>
+    <updated>2023-11-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/oficinapp-site/blog"/>
     <subtitle>OficinApp Blog</subtitle>
     <icon>https://github.com/oficinapp-site/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Inclusão de todas as funcionalidades conectada com a base de dados [release v0.1.1]]]></title>
+        <id>https://github.com/oficinapp-site/blog/release-5</id>
+        <link href="https://github.com/oficinapp-site/blog/release-5"/>
+        <updated>2023-11-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Foram adicionadas as funçoes de criar, apagar, editar e mostrar baseadas na base de dados.]]></summary>
+        <content type="html"><![CDATA[<p>Foram adicionadas as funçoes de criar, apagar, editar e mostrar baseadas na base de dados.</p><p>Features adicionadas:</p><ul><li>C.R.U.D para os clientes.</li><li>C.R.U.D para as faturas.</li><li>C.R.U.D para os materiasi.</li><li>C.R.U.D para os serviços.</li><li>C.R.U.D para as ordens de reparação.</li><li>C.R.U.D para os veiculos.</li><li>Optimização de sistema e interatividade do meno.</li></ul>]]></content>
+        <author>
+            <name>Marco Valente</name>
+            <uri>https://github.com/MarcoValenteF</uri>
+        </author>
+        <category label="base de dados" term="base de dados"/>
+        <category label="Basicas" term="Basicas"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Inclusão de uma base de dados no sistema[release v0.1.0]]]></title>
         <id>https://github.com/oficinapp-site/blog/release-4</id>
         <link href="https://github.com/oficinapp-site/blog/release-4"/>
         <updated>2023-11-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Foram adicionadas algumas funçoes de excluir e corrigimos alguns erros do progrma para um melhor funcionamento.]]></summary>
-        <content type="html"><![CDATA[<p>Foram adicionadas algumas funçoes de excluir e corrigimos alguns erros do progrma para um melhor funcionamento.</p><p>Features adicionadas:</p><ul><li>Adição da base de dados com o sistema</li><li>Criação de funcionalidades para inserir uma nova ordem de reparação.</li><li>Implementado um formulário para a inserção das informações necessárias para criar uma Ordem de Reparo.</li></ul>]]></content>
+        <summary type="html"><![CDATA[incorpuramos uma base de dados no sistema.]]></summary>
+        <content type="html"><![CDATA[<p>incorpuramos uma base de dados no sistema.</p><p>Features adicionadas:</p><ul><li>Adição da base de dados com o sistema</li><li>Criação de funcionalidades para inserir uma nova ordem de reparação.</li><li>Implementado um formulário para a inserção das informações necessárias para criar uma Ordem de Reparo.</li></ul>]]></content>
         <author>
             <name>Marco Valente</name>
             <uri>https://github.com/MarcoValenteF</uri>
