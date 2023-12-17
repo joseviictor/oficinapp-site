@@ -103,11 +103,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Support',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Instagram',
+                href: 'https://instagram.com/',
+              },
+              {
+                label: 'Facebook',
+                href: 'https://facebook.com/',
+              },
+              {
+                label: 'Email',
+                href: 'oficinapp.pt',
               },
             ],
           },
@@ -116,15 +124,15 @@ const config = {
             items: [
               {
                 label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://stackoverflow.com/',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discordapp.com/',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/',
               },
             ],
           },
