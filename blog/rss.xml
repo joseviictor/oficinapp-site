@@ -60,8 +60,8 @@
             <link>https://github.com/oficinapp-site/blog/release-4</link>
             <guid>https://github.com/oficinapp-site/blog/release-4</guid>
             <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Incorpuramos uma base de dados no sistema.]]></description>
-            <content:encoded><![CDATA[<p>Incorpuramos uma base de dados no sistema.</p><p><strong>Features adicionadas:</strong></p><ul><li>Adição da base de dados com o sistema</li><li>Criação de funcionalidades para inserir uma nova ordem de reparação.</li><li>Implementado um formulário para a inserção das informações necessárias para criar uma Ordem de Reparo.</li></ul>]]></content:encoded>
+            <description><![CDATA[Incorporamos uma base de dados no sistema.]]></description>
+            <content:encoded><![CDATA[<p>Incorporamos uma base de dados no sistema.</p><p><strong>Features adicionadas:</strong></p><ul><li>Adição da base de dados com o sistema</li><li>Criação de funcionalidades para inserir uma nova ordem de reparação.</li><li>Implementado um formulário para a inserção das informações necessárias para criar uma Ordem de Reparo.</li></ul>]]></content:encoded>
             <category>base de dados</category>
             <category>Basicas</category>
             <category>0.1.0</category>

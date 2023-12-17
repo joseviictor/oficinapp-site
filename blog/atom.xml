@@ -71,8 +71,8 @@
         <id>https://github.com/oficinapp-site/blog/release-4</id>
         <link href="https://github.com/oficinapp-site/blog/release-4"/>
         <updated>2023-11-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Incorpuramos uma base de dados no sistema.]]></summary>
-        <content type="html"><![CDATA[<p>Incorpuramos uma base de dados no sistema.</p><p><strong>Features adicionadas:</strong></p><ul><li>Adição da base de dados com o sistema</li><li>Criação de funcionalidades para inserir uma nova ordem de reparação.</li><li>Implementado um formulário para a inserção das informações necessárias para criar uma Ordem de Reparo.</li></ul>]]></content>
+        <summary type="html"><![CDATA[Incorporamos uma base de dados no sistema.]]></summary>
+        <content type="html"><![CDATA[<p>Incorporamos uma base de dados no sistema.</p><p><strong>Features adicionadas:</strong></p><ul><li>Adição da base de dados com o sistema</li><li>Criação de funcionalidades para inserir uma nova ordem de reparação.</li><li>Implementado um formulário para a inserção das informações necessárias para criar uma Ordem de Reparo.</li></ul>]]></content>
         <author>
             <name>Marco Valente</name>
             <uri>https://github.com/MarcoValenteF</uri>
