@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[6056],{2195:a=>{a.exports=JSON.parse('{"label":"Materiais","permalink":"/oficinapp-site/blog/tags/materiais","allTagsPath":"/oficinapp-site/blog/tags","count":1}')}}]);

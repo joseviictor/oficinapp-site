@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[3935],{6429:s=>{s.exports=JSON.parse('{"label":"base de dados","permalink":"/oficinapp-site/blog/tags/base-de-dados","allTagsPath":"/oficinapp-site/blog/tags","count":2}')}}]);

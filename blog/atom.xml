@@ -2,24 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/oficinapp-site/blog</id>
     <title>OficinApp Blog</title>
-    <updated>2023-11-25T00:00:00.000Z</updated>
+    <updated>2023-11-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/oficinapp-site/blog"/>
     <subtitle>OficinApp Blog</subtitle>
     <icon>https://github.com/oficinapp-site/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Inclusão de todas as funcionalidades conectada com a base de dados [release v0.1.1]]]></title>
+        <title type="html"><![CDATA[Inclusão de funções gerais para apagar e editar. [release v0.1.2]]]></title>
         <id>https://github.com/oficinapp-site/blog/release-5</id>
         <link href="https://github.com/oficinapp-site/blog/release-5"/>
-        <updated>2023-11-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Foram adicionadas as funçoes de criar, apagar, editar e mostrar baseadas na base de dados.]]></summary>
-        <content type="html"><![CDATA[<p>Foram adicionadas as funçoes de criar, apagar, editar e mostrar baseadas na base de dados.</p><p><strong>Features adicionadas:</strong></p><ul><li>C.R.U.D para os clientes.</li><li>C.R.U.D para as faturas.</li><li>C.R.U.D para os materiasi.</li><li>C.R.U.D para os serviços.</li><li>C.R.U.D para as ordens de reparação.</li><li>C.R.U.D para os veiculos.</li><li>Optimização de sistema e interatividade do meno.</li></ul>]]></content>
+        <updated>2023-11-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Foram adicionadas as funçoes de apagar e editar baseadas na base de dados de uma forma generica que permite a realizaçao com qualquer item ou objeto como um veiculo ou mesmo se for adicionado outras novas coisas.]]></summary>
+        <content type="html"><![CDATA[<p>Foram adicionadas as funçoes de apagar e editar baseadas na base de dados de uma forma generica que permite a realizaçao com qualquer item ou objeto como um veiculo ou mesmo se for adicionado outras novas coisas.</p><p><strong>Features adicionadas:</strong></p><ul><li>Capacidade de editar qualquer coisa a partir de uma unica função.</li><li>Capacidade de apagar qualquer coisa a partir de uma unica função.</li><li>limpeza de algum codigo desnecessario.</li></ul>]]></content>
         <author>
             <name>Marco Valente</name>
             <uri>https://github.com/MarcoValenteF</uri>
         </author>
         <category label="base de dados" term="base de dados"/>
         <category label="Basicas" term="Basicas"/>
+        <category label="apagar" term="apagar"/>
+        <category label="editar" term="editar"/>
+        <category label="delete" term="delete"/>
+        <category label="update" term="update"/>
+        <category label="CRUD" term="CRUD"/>
+        <category label="C.R.U.D." term="C.R.U.D."/>
+        <category label="0.1.0" term="0.1.0"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inclusão de todas as funcionalidades conectada com a base de dados [release v0.1.1]]]></title>
+        <id>https://github.com/oficinapp-site/blog/release-5</id>
+        <link href="https://github.com/oficinapp-site/blog/release-5"/>
+        <updated>2023-11-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Foram adicionadas as funçoes de criar, apagar, editar e mostrar baseadas na base de dados.]]></summary>
+        <content type="html"><![CDATA[<p>Foram adicionadas as funçoes de apagar e editar baseadas na base de dados de uma forma generica que permite a realizaçao com qualquer item ou objeto como um veiculo ou mesmo se for adicionado outras novas coisas.</p><p><strong>Features adicionadas:</strong></p><ul><li>Capacidade de editar qualquer coisa a partir de uma unica função.</li><li>Capacidade de apagar qualquer coisa a partir de uma unica função.</li><li>limpeza de algum codigo desnecessario.</li></ul>]]></content>
+        <author>
+            <name>Marco Valente</name>
+            <uri>https://github.com/MarcoValenteF</uri>
+        </author>
+        <category label="base de dados" term="base de dados"/>
+        <category label="Basicas" term="Basicas"/>
+        <category label="CRUD" term="CRUD"/>
+        <category label="C.R.U.D." term="C.R.U.D."/>
+        <category label="clientes" term="clientes"/>
+        <category label="faturas" term="faturas"/>
+        <category label="materiais" term="materiais"/>
+        <category label="serviços" term="serviços"/>
+        <category label="ordens de reparação" term="ordens de reparação"/>
+        <category label="veiculos" term="veiculos"/>
+        <category label="0.1.0" term="0.1.0"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Inclusão de uma base de dados no sistema[release v0.1.0]]]></title>
@@ -34,6 +64,7 @@
         </author>
         <category label="base de dados" term="base de dados"/>
         <category label="Basicas" term="Basicas"/>
+        <category label="0.1.0" term="0.1.0"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Funções basicas do sistema, faturas e clientes[release v0.0.3]]]></title>
@@ -52,6 +83,7 @@
         <category label="Eliminar" term="Eliminar"/>
         <category label="Imprimir" term="Imprimir"/>
         <category label="Faturas.py" term="Faturas.py"/>
+        <category label="0.0.0" term="0.0.0"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Funções basicas do sistema, serviços e materiais [release v0.0.2]]]></title>
@@ -59,7 +91,7 @@
         <link href="https://github.com/oficinapp-site/blog/release-2"/>
         <updated>2023-11-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Optimizamos bastante o sistema, adicionamos novas funções e acrescentamos serviços e materiais.]]></summary>
-        <content type="html"><![CDATA[<p>Optimizamos bastante o sistema, adicionamos novas funções e acrescentamos serviços e materiais.</p><p>Features adicionadas:</p><ul><li>Criar serviços novos.</li><li>Imprimir todos os serviços disponiveis.</li><li>Criar Materiais novas.</li><li>Imprimir todas as Materiais.</li><li>Atualização do menu principal.</li><li>Adição de sub-menus.</li><li>Salvar as informações em ficheiros.</li><li>optimização completo do sistema.</li></ul>]]></content>
+        <content type="html"><![CDATA[<p>Optimizamos bastante o sistema, adicionamos novas funções e acrescentamos serviços e materiais.</p><p><strong>Features adicionadas:</strong></p><ul><li>Criar serviços novos.</li><li>Imprimir todos os serviços disponiveis.</li><li>Criar Materiais novas.</li><li>Imprimir todas as Materiais.</li><li>Atualização do menu principal.</li><li>Adição de sub-menus.</li><li>Salvar as informações em ficheiros.</li><li>optimização completo do sistema.</li></ul>]]></content>
         <author>
             <name>Jose Santos</name>
             <uri>https://github.com/joseviictor</uri>
@@ -71,6 +103,7 @@
         <category label="Imprimir" term="Imprimir"/>
         <category label="materiais.py" term="materiais.py"/>
         <category label="serviços.py" term="serviços.py"/>
+        <category label="0.0.0" term="0.0.0"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Funções basicas do sistema, faturas e clientes[release v0.0.1]]]></title>
@@ -90,5 +123,6 @@
         <category label="Imprimir" term="Imprimir"/>
         <category label="faturas.py" term="faturas.py"/>
         <category label="clientes.py" term="clientes.py"/>
+        <category label="0.0.0" term="0.0.0"/>
     </entry>
 </feed>

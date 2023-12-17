@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[4032],{6173:a=>{a.exports=JSON.parse('{"label":"ordens de repara\xe7\xe3o","permalink":"/oficinapp-site/blog/tags/ordens-de-reparacao","allTagsPath":"/oficinapp-site/blog/tags","count":1}')}}]);
