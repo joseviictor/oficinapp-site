@@ -8,17 +8,19 @@
     <subtitle>OficinApp Blog</subtitle>
     <icon>https://github.com/oficinapp-site/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[fix]]></title>
+        <title type="html"><![CDATA[Funções basicas do sistema [release v0.0.1]]]></title>
         <id>https://github.com/oficinapp-site/blog/release-1</id>
         <link href="https://github.com/oficinapp-site/blog/release-1"/>
         <updated>2023-11-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[texto aqui]]></summary>
-        <content type="html"><![CDATA[<p>texto aqui</p>]]></content>
+        <summary type="html"><![CDATA[A primeira versão da aplicação ja se encontra disponivel.]]></summary>
+        <content type="html"><![CDATA[<p>A primeira versão da aplicação ja se encontra disponivel.</p><p>Features adicionadas:</p><ul><li>Criar clientes novos.</li><li>Imprimir todos os clientes.</li><li>criar faturas novas.</li><li>imprimir todas as faturas.</li><li>optimização completo do sistema.</li></ul>]]></content>
         <author>
             <name>Jose Santos</name>
             <uri>https://github.com/joseviictor</uri>
         </author>
         <category label="Faturas" term="Faturas"/>
+        <category label="clientes" term="clientes"/>
+        <category label="basicas" term="basicas"/>
         <category label="Criar" term="Criar"/>
         <category label="Imprimir" term="Imprimir"/>
         <category label="Faturas.py" term="Faturas.py"/>

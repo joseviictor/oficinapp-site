@@ -9,13 +9,15 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pt</language>
         <item>
-            <title><![CDATA[fix]]></title>
+            <title><![CDATA[Funções basicas do sistema [release v0.0.1]]]></title>
             <link>https://github.com/oficinapp-site/blog/release-1</link>
             <guid>https://github.com/oficinapp-site/blog/release-1</guid>
             <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[texto aqui]]></description>
-            <content:encoded><![CDATA[<p>texto aqui</p>]]></content:encoded>
+            <description><![CDATA[A primeira versão da aplicação ja se encontra disponivel.]]></description>
+            <content:encoded><![CDATA[<p>A primeira versão da aplicação ja se encontra disponivel.</p><p>Features adicionadas:</p><ul><li>Criar clientes novos.</li><li>Imprimir todos os clientes.</li><li>criar faturas novas.</li><li>imprimir todas as faturas.</li><li>optimização completo do sistema.</li></ul>]]></content:encoded>
             <category>Faturas</category>
+            <category>clientes</category>
+            <category>basicas</category>
             <category>Criar</category>
             <category>Imprimir</category>
             <category>Faturas.py</category>
