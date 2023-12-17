@@ -114,8 +114,8 @@ const config = {
                 href: 'https://facebook.com/',
               },
               {
-                label: 'Email',
-                href: 'oficinapp.pt',
+                label: 'Oficinapp@gmail.com',
+                href: 'https://mail.google.com/',
               },
             ],
           },
