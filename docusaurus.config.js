@@ -115,7 +115,7 @@ const config = {
               },
               {
                 label: 'Email',
-                href: 'oficinappp.pt',
+                href: 'oficinapp.pt',
               },
             ],
           },
