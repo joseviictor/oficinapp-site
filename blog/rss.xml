@@ -9,7 +9,7 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pt</language>
         <item>
-            <title><![CDATA[Funções basicas do sistema, serviços e materiais [release v0.0.1]]]></title>
+            <title><![CDATA[Funções basicas do sistema, serviços e materiais [release v0.0.2]]]></title>
             <link>https://github.com/oficinapp-site/blog/release-2</link>
             <guid>https://github.com/oficinapp-site/blog/release-2</guid>
             <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
@@ -35,16 +35,6 @@
             <category>Criar</category>
             <category>Imprimir</category>
             <category>Faturas.py</category>
-        </item>
-        <item>
-            <title><![CDATA[First Blog Post]]></title>
-            <link>https://github.com/oficinapp-site/blog/first-blog-post</link>
-            <guid>https://github.com/oficinapp-site/blog/first-blog-post</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>hola</category>
-            <category>docusaurus</category>
         </item>
     </channel>
 </rss>
