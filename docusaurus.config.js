@@ -72,10 +72,10 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'features',
+            
+            to: 'features',
             position: 'left',
-            label: 'Features',
+            label: 'Features'
           },
           {
             to: 'pricing', 
