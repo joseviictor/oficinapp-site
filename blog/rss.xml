@@ -23,6 +23,16 @@
             <category>Faturas.py</category>
         </item>
         <item>
+            <title><![CDATA[Inclusão de uma base de dados no sistema[release v0.1.0]]]></title>
+            <link>https://github.com/oficinapp-site/blog/release-4</link>
+            <guid>https://github.com/oficinapp-site/blog/release-4</guid>
+            <pubDate>Sat, 04 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Foram adicionadas algumas funçoes de excluir e corrigimos alguns erros do progrma para um melhor funcionamento.]]></description>
+            <content:encoded><![CDATA[<p>Foram adicionadas algumas funçoes de excluir e corrigimos alguns erros do progrma para um melhor funcionamento.</p><p>Features adicionadas:</p><ul><li>Adição da base de dados com o sistema</li><li>Criação de funcionalidades para inserir uma nova ordem de reparação.</li><li>Implementado um formulário para a inserção das informações necessárias para criar uma Ordem de Reparo.</li></ul>]]></content:encoded>
+            <category>base de dados</category>
+            <category>Basicas</category>
+        </item>
+        <item>
             <title><![CDATA[Funções basicas do sistema, serviços e materiais [release v0.0.2]]]></title>
             <link>https://github.com/oficinapp-site/blog/release-2</link>
             <guid>https://github.com/oficinapp-site/blog/release-2</guid>
